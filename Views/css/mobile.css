@@ -1,0 +1,49 @@
+/* CSS Document */
+
+.div
+{
+	
+}
+
+.mobile
+{
+}
+
+.header
+{
+	
+}
+
+.body
+{
+	
+}
+
+.footer
+{
+	
+}
+
+.center
+{
+	align-content: center;
+	text-align: center;
+}
+
+.div > .mobile > .header
+{
+	align-self: flex-start;
+	alignment-baseline: mathematical;
+}
+
+.div > .mobile > .body
+{
+	align-self: center;
+	alignment-baseline: bottom
+}
+
+.div > .mobile > .footer
+{
+	align-self: flex-end;
+	alignment-baseline: bottom;
+}

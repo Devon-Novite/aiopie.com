@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.body
+{
+	background-color:black;
+	color:white;
+}
+
+div > .body > .header > .footer > .inverse
+{
+	background-color: auto;
+	border-color:red;
+	border-width:thick;
+}
+
+.header
+{
+	align-self: top;
+}
+
+.footer
+{
+	align-self: bottom;
+}
+
+.inverse
+{
+	background-color:black;
+	color:auto;
+}
+
+.footer-inverse
+{
+	color:auto;
+	background-color:auto;
+}
